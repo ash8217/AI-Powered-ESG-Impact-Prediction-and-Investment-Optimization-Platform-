@@ -1,0 +1,16 @@
+Project ID,Project Name,Country Code,Indicator Code,Investment Amount,Projected Impact,Year
+P1,Forest Regeneration Project,IND,GHG,100,5,2025
+P2,Solar Energy Initiative,USA,RE,500000,20,2024
+P3,Agriculture Sustainability,BRA,GHG,1500,8,2025
+P4,Wind Farm Development,CAN,RE,3,15,2024
+P5,Water Treatment Plant,GER,WQ,20,10,2024
+P6,Renewable Energy Expansion,USA,RE,303326,16,2025
+P7,Clean Water Access,GER,WQ,208665,5,2024
+P8,Carbon Capture Initiative,IND,GHG,345595,22,2025
+P9,Sustainable Forestry Management,BRA,RE,183124,20,2024
+P10,Green Transportation Infrastructure,USA,WQ,425192,7,2024
+P11,Ocean Conservation Project,CAN,RE,377832,21,2025
+P12,Clean Air Program,GER,WQ,266098,15,2025
+P13,Urban Green Spaces,IND,GHG,15687,6,2025
+P14,Solar Panel Distribution,BRA,RE,397138,18,2024
+P15,Reforestation Program,USA,GHG,349656,14,2025
