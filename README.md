@@ -1,32 +1,58 @@
 # ESG Data Analysis and Optimization Platform
 
 ## Overview
-This project is a data-driven platform for analyzing and optimizing ESG (Environmental, Social, and Governance) metrics using machine learning, statistical analysis, and linear programming. It integrates various data sources to evaluate ESG scores, predict future ESG trends, and optimize project investments.
+This project is a **data-driven platform** for analyzing and optimizing **ESG (Environmental, Social, and Governance)** metrics using **machine learning, statistical analysis, and linear programming**.  
+It integrates multiple datasets to evaluate ESG scores, predict future ESG trends, and optimize project investments.
 
 ## Features
-- *Data Cleaning & Processing*: Handles missing data, normalizes values, and merges multiple datasets.
-- *Machine Learning*:
-  - Regression Model for ESG Score Prediction.
-  - Random Forest Model for ESG Classification.
-- *Optimization*:
-  - Linear Programming for maximizing ESG impact under budget constraints.
-- *Visualization*:
-  - Interactive dashboards using Streamlit and Plotly.
-- *SMOTE for Data Balancing*: Handles class imbalance in ESG classification.
-- *Automated Ranking System*: Ranks projects based on predicted ESG impact.
+- **Data Cleaning & Processing** – Handles missing data, normalizes values, and merges multiple datasets.  
+- **Machine Learning** –  
+  - Regression Model for ESG Score Prediction.  
+  - Random Forest Model for ESG Classification.  
+- **Optimization** – Linear Programming for maximizing ESG impact under budget constraints.  
+- **Visualization** – Interactive dashboards created with **Streamlit** and **Plotly**.  
+- **SMOTE for Data Balancing** – Addresses class imbalance in ESG classification.  
+- **Automated Ranking System** – Ranks projects based on predicted ESG impact.  
 
 ## Technologies Used
-- *Python Libraries*: pandas, numpy, sklearn, pulp, imblearn, streamlit, plotly
-- *Machine Learning Models*: Linear Regression, Random Forest Classifier
-- *Optimization Algorithm*: Linear Programming using pulp
-- *Web Framework*: Streamlit
+- **Python Libraries** – pandas, numpy, sklearn, pulp, imblearn, streamlit, plotly  
+- **Machine Learning Models** – Linear Regression, Random Forest Classifier  
+- **Optimization Algorithm** – Linear Programming with pulp  
+- **Web Framework** – Streamlit  
 
 ## Installation
-1. Clone the repository:
-   bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
-   
+Clone the repository:  
+```bash
+git clone https://github.com/your-repo-name.git
+cd your-repo-name
+# ESG Data Analysis and Optimization Platform
+
+## Overview
+This project is a **data-driven platform** for analyzing and optimizing **ESG (Environmental, Social, and Governance)** metrics using **machine learning, statistical analysis, and linear programming**.  
+It integrates multiple datasets to evaluate ESG scores, predict future ESG trends, and optimize project investments.
+
+## Features
+- **Data Cleaning & Processing** – Handles missing data, normalizes values, and merges multiple datasets.  
+- **Machine Learning** –  
+  - Regression Model for ESG Score Prediction.  
+  - Random Forest Model for ESG Classification.  
+- **Optimization** – Linear Programming for maximizing ESG impact under budget constraints.  
+- **Visualization** – Interactive dashboards created with **Streamlit** and **Plotly**.  
+- **SMOTE for Data Balancing** – Addresses class imbalance in ESG classification.  
+- **Automated Ranking System** – Ranks projects based on predicted ESG impact.  
+
+## Technologies Used
+- **Python Libraries** – pandas, numpy, sklearn, pulp, imblearn, streamlit, plotly  
+- **Machine Learning Models** – Linear Regression, Random Forest Classifier  
+- **Optimization Algorithm** – Linear Programming with pulp  
+- **Web Framework** – Streamlit  
+
+## Installation
+Clone the repository:  
+```bash
+git clone https://github.com/your-repo-name.git
+cd your-repo-name
+
 2. Install required dependencies:
    bash
    pip install -r requirements.txt
@@ -73,5 +99,4 @@ The project uses multiple ESG-related datasets:
 - Improve risk analysis using probabilistic models.
 - Extend to real-time ESG data streaming.
 
-## License
-This project is open-source and available under the MIT License.
+
